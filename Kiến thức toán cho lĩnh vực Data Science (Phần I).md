@@ -44,7 +44,6 @@ Tham khảo Binary search Algorithm: https://en.wikipedia.org/wiki/Binary_search
 
 - Website Machine Learning cơ bản: https://machinelearningcoban.com/math/#luu-y-ve-ky-hieu
 - Data Science Math Skills - Coursera: https://www.coursera.org/learn/datasciencemathskills
-- Introduction to Mathematical Thinking - Coursera: https://www.coursera.org/learn/mathematical-thinking
 - Introduction to Algebra - edX: https://www.edx.org/course/introduction-algebra-schoolyourself-algebrax-1
 - Algebra I - Khan Academy: https://www.khanacademy.org/math/algebra
 
@@ -83,11 +82,7 @@ Với kiến thức về Toán lẫn Thống kê, bạn có thể tự đặt ra
 - Business Statistics and Analysis Specialization - Coursera: https://www.coursera.org/specializations/business-statistics-analysis
 - (Sách tiếng Việt) Phân Tích Dữ Liệu Với R – Hỏi Và Đáp (Tái Bản 2018) - Nguyễn Văn Tuấn
 
-Qua phần đầu của chủ đề **Kiến thức toán cho lĩnh vực Data Science**, mình mong rằng có thể cung cấp đến các bạn một chút hành trang trên con đường trở thành những Data Scientist thực thụ.
-
-Và để trở thành một DS quả là một quá trình dài để học tập, rèn luyện tri thức lẫn mindset dúng không nào. Qua đó, ta có thể thấy từ bài toán đến ứng dụng thực tiễn luôn là một thử thách lớn và lại càng gắn liền với trách nhiệm nếu bạn phụ trách cho Doanh nghiệp. Bởi nguy hiểm vẫn là việc "Sai một ly đi một dặm" dẫn đến một rủi ro không hề nhỏ.
-
-Hãy không ngừng đặt ra những câu hỏi và cố gắng vận dụng tri thức tìm ra lời giải phù hợp lẫn tối ưu nhất. Trong giai đoạn Hội nhập của Việt Nam hiện nay, cơ hội vẫn luôn trong tầm tay bạn khi và chỉ khi bản thân luôn nỗ lực hết mình.
+Qua phần đầu của chủ đề **Kiến thức toán cho lĩnh vực Data Science**, mình mong rằng có thể cung cấp đến các bạn một chút hành trang trên con đường trở thành những Data Scientist thực thụ. Những kiến thức về Toán còn lại sẽ được Ad đề cập tại phần sau, hãy theo dõi AI VIET NAM để luôn cập nhật những bài post mới nhất các bạn nhé!
 
 Nguyễn Ôn Ngọc Bảo.
 
