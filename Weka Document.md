@@ -16,7 +16,7 @@ Bạn có thể khám phá thêm về Weka tại đây: https://www.cs.waikato.a
 
 Một lợi ích lớn của việc sử dụng Weka là nó chứa số lượng lớn các thuật toán Machine Learning được hỗ trợ. Càng nhiều thuật toán càng giúp mình tìm hiểu tường tận về vấn đề của bản thân và dễ dàng so sánh các thuật toán với nhau.
 
-Điển hình hơn hết là Weka đã có sẵn các thuật toán chúng ta tiếp cận Case Study Titanic một cách trực quan hơn. Ở đây ta sẽ tiếp cận với 3 thuật toán Phân loại cơ bản: K-Neighrest Neighbor, Naive Bayes & Decision Tree.
+Điển hình hơn hết là Weka đã có sẵn các thuật toán chúng ta tiếp cận Case Study Titanic một cách trực quan hơn. Ở đây ta sẽ tiếp cận với 3 thuật toán Classification cơ bản: K-Neighrest Neighbor, Naive Bayes & Decision Tree.
 
 ## Tìm hiểu về Case Study Titanic
 
@@ -40,6 +40,8 @@ Thuộc tính đầu vào của mình sẽ bao gồm:
 | gender | Giới tính | Đã chuẩn hoá 0 - Nữ và 1 - Nam |
 | age | Tuổi tác | 1 - adult và 0 - children |
 | survived | Khả năng sống sót | 0 - không và 1 - Có |
+
+Nếu muốn test thử bộ dữ liệu đã được chuẩn hoá từ mình, bạn có thể download tại đây: https://drive.google.com/file/d/13ycO_k8erbZrS-cxa-F8RlWlfitF57Kv/view?usp=sharing
 
 #### **Output**: 
 Dữ liệu đầu ra rất đơn giản đưa ra dự đoán về khả năng tử nạn của các hành khách còn lại dựa trên những yếu tố biết trước như tên, tuổi, giới tính, số người đi cùng, vị trí phòng v…v.
