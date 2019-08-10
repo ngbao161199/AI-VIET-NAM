@@ -63,8 +63,8 @@ Tiếp đến ở test option bạn có thể chọn:
 - Use training set: Sử dụng toàn bộ dữ liệu để huấn luyện mô hình.
 - Supplied test set: Bạn cung cấp thêm test set để kiểm tra mô hình.
 - Cross-validation: Hay còn gọi là k-fold Cross validation. Phương pháp này phân chia dữ liệu thành k tập con có cùng kích thước. Tại mỗi vòng lặp sử dụng một tập con là tập thử nghiệm và các tập con còn lại là tập huấn luyện. Giá trị k thường là = 10. Ta có thể dùng một trong hai cách:
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; + Leave-one-out : k=số mẫu trong dữ liệu (dành cho tập dữ liệu nhỏ)
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; + Stratified cross-validation : dùng phương pháp lấy mẫu để các lớp trong từng tập con phân bố như trên toàn bộ dữ liệu.
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; + Leave-one-out : k=số mẫu trong dữ liệu (dành cho tập dữ liệu nhỏ)
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; + Stratified cross-validation : dùng phương pháp lấy mẫu để các lớp trong từng tập con phân bố như trên toàn bộ dữ liệu.
 - Percentage split: Chia dữ liệu thành training set, test set tuỳ vào % bạn muốn.
 
 Tương tự ta tiếp tục với thuật toán Decision Tree ID3 và Naive Bayes.
