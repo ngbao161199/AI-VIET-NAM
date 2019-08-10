@@ -33,9 +33,10 @@ Bạn có thể tham khảo thêm về Case Study này và lấy dữ liệu t�
 #### **Input**
 Từ dữ liệu gốc, mình sẽ tối giản chúng. Mình đã lọc ra vài thuộc tính quan trọng lẫn chỉnh sửa tên thuộc tính ảnh hưởng đến khả năng sống sót (**survived**) của hành khách trên tàu Titanic.   
 Thuộc tính đầu vào của mình sẽ bao gồm: 
+
 | Thuộc tính   |      Định nghĩa      | Giải thích |
 |----------|:-------------:|------:|
-| class | Loại vé - Ticket class. Có thể là vé hạng nhất, hạng hai,... |1 = 1st, 2 = 2nd, 3 = 3rd |
+| class | Loại vé - Ticket class. Có thể là vé hạng nhất, hạng hai,... | 1 = 1st, 2 = 2nd, 3 = 3rd |
 | gender | Giới tính | Đã chuẩn hoá 0 - Nữ và 1 - Nam |
 | age | Tuổi tác | 1 - adult và 0 - children |
 | survived | Khả năng sống sót | 0 - không và 1 - Có |
