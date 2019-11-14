@@ -210,4 +210,5 @@ Cùng với đó, Overleaf cũng sẽ là một trợ thủ đắc lực với m
 ## **Nguồn tham khảo**: 
 
 [1] [Khoá học LateX online](https://www.overleaf.com/learn/latex/Free_online_introduction_to_LaTeX_(part_1)) được biên soạn bởi [Tiến sĩ Dr John Lees-Miller](https://www.overleaf.com/ourteam) và trình bày ban đầu tại Đại học Bristol.
+<br>
 [2] [How to use Overleaf to Write your papers](https://medium.com/thoughts-philosophy-writing/how-to-use-overleaf-to-write-your-papers-part-i-basic-minimalist-setup-6599268c095f) - Arindam Basu.
